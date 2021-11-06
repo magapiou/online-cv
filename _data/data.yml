@@ -32,8 +32,10 @@ sidebar:
         level: Proficient
 
       - idiom: R
+        level: Intermediate
 
       - idiom: Bash
+        level: Intermediate
 
     interests:
       - item: RNA Biology
@@ -75,44 +77,32 @@ education:
 #         pretium quis, sem.
 #           - Bullet point
 #           - Bullet point
-# experiences:
-#     - role: Lead Developer
-#       time: 2015 - Present
-#       company: Startup Hubs, San Francisco
-#       details: |
-#         Describe your role here lorem ipsum dolor sit amet, consectetuer
-#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#         Cum sociis natoque penatibus et magnis dis parturient montes,
-#         nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#         pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-#         enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-#         error sit voluptatem accusantium doloremque laudantium, totam rem
-#         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-#         architecto beatae vitae dicta sunt explicabo.
-#           - Bullet point
-#           - Bullet point
-#     - role: Senior Software Engineer
-#       time: 2014 - 2015
-#       company: Google, London
-#       details: |
-#         Describe your role here lorem ipsum dolor sit amet, consectetuer
-#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#         Cum sociis natoque penatibus et magnis dis parturient montes,
-#         nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#         pellentesque eu, pretium quis, sem.
-#           - Bullet point
-#           - Bullet point
-#     - role: UI Developer
-#       time: 2012 - 2014
-#       company: Amazon, London
-#       details: |
-#         Describe your role here lorem ipsum dolor sit amet, consectetuer
-#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#         Cum sociis natoque penatibus et magnis dis parturient montes,
-#         nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#         pellentesque eu, pretium quis, sem.
-#           - Bullet point
-#           - Bullet point
+experiences:
+    - role: Producer
+      time: 2021 - Present
+      company: Story Collider
+      details: |     
+          - Facilitated in Story Collider's workshops and its BIPOC community 
+          group
+          - Acted as a Story Coach in live Stoty Collider slams
+          - Listened to recorded stories from live shows and delivered
+          feedback to the Artistic Director to aid them in selecting 
+          stories for the podcast
+    - role: BBSRC PhD Student
+      time: 2016 - 2021
+      company: University of Leeds
+      details: |
+        Completed a PhD that used a mix of molecular and computational 
+        biology to study RNA–protein interactions and infertility in fruit 
+        flies. 
+        Work included:
+          - Generating and analysing two next generation sequencing datasets 
+          (Ribo-seq and RIP-seq), using using a mix of commonly used 
+          bioinformatics and statistics packages in R, Python and via the 
+          command line, as well as custom scripts in Python
+          - A broad range of molecular biology techniques, such as, DNA, RNA 
+          and protein gels, confocal microscopy, qRT-PCRs and protein production
+
 # projects:
 #     title: Projects
 #     intro: >
